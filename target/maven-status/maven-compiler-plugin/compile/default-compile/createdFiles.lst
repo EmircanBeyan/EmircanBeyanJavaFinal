@@ -1,0 +1,7 @@
+com/example/notapp/model/Student.class
+com/example/notapp/repository/GradeRepository.class
+com/example/notapp/controller/GradeController.class
+com/example/notapp/controller/StudentController.class
+com/example/notapp/NotappApplication.class
+com/example/notapp/repository/StudentRepository.class
+com/example/notapp/model/Grade.class
